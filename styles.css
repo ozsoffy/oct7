@@ -1,0 +1,27 @@
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#infographic {
+    text-align: center;
+}
+
+.statistic {
+    margin-bottom: 20px;
+}
+
+.number {
+    font-size: 2em;
+    color: #ff0000;
+}
+
+.label {
+    font-size: 1.2em;
+}
